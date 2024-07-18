@@ -1,0 +1,624 @@
+created_by: IBM Chile S.A.C.
+domain: history
+task_description: "Poliza POL320200059"
+document:
+  repo: https://github.com/enavarre-ibm/taxonomy/knowledge/Industries/Insurance/Chile/CMF/Policies/POL320200059
+  commit: TBD
+  patterns:
+    - POL320200059.md
+seed_examples:
+  - answer: "Asegurado, Compa\xF1\xEDa Aseguradora, Contratante, Sistema de Salud Previsional\
+      \ (ISAPRE o FONASA), y Personas Aseguradas."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \nIdentificame las Entidades de\
+      \ la P\xF3liza Seguro Complementario de Salud Incorporada al Dep\xF3sito de P\xF3\
+      lizas bajo el c\xF3digo POL320200059"
+  - answer: "Es la entidad que ofrece el seguro y se encarga de reembolsar los gastos\
+      \ m\xE9dicos cubiertos por la po\u0301liza."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFComo se define La Compan\u0303\
+      i\u0301a Aseguradora?"
+  - answer: "Es la persona que adquiere la cobertura del seguro y tiene la obligaci\xF3\
+      n de estar afiliado a un sistema de salud previsional, haber recibido cobertura\
+      \ de parte del sistema de salud previsional al cual se encuentra afiliado, y pagar\
+      \ la prima convenida."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFComo se define El Asegurado?"
+  - answer: "Es la persona que firma el contrato de seguro y hace las declaraciones\
+      \ necesarias para la validez de la po\u0301liza."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFComo se define El Contratante?"
+  - answer: "Son las personas amparadas por la po\u0301liza, y pueden incluir al asegurado\
+      \ o a terceros."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFComo se define Las Personas\
+      \ Aseguradas?"
+  - answer: Puede ser ISAPRE o FONASA, y es el sistema al que el asegurado debe estar
+      afiliado para obtener la cobertura del seguro.
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFComo se define El Sistema\
+      \ de Salud Previsional?"
+  - answer: "Son las condiciones espec\xEDficas de la po\u0301liza, que incluyen los\
+      \ plazos de denuncia de siniestros, los documentos necesarios para la liquidaci\xF3\
+      n del siniestro, y el plazo de gracia para el pago de las primas."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFComo se define Las Condiciones\
+      \ Particulares?"
+  - answer: "La relaci\xF3n entre la entidad Asegurado y la entidad Compa\xF1\xEDa est\xE1\
+      \ definida por las obligaciones y derechos de cada una en el contexto del contrato\
+      \ de seguro. El Asegurado, para obtener la cobertura del seguro, debe cumplir\
+      \ con ciertas obligaciones, como estar afiliado a un sistema de salud previsional,\
+      \ haber recibido cobertura de parte del sistema de salud previsional respecto\
+      \ de la prestaci\xF3n que busca cubrir con esta p\xF3liza, y pagar la prima convenida.\
+      \ El incumplimiento de estas obligaciones faculta a la Compa\xF1\xEDa Aseguradora\
+      \ para no reembolsar ning\xFAn gasto y puede poner t\xE9rmino a la cobertura.\n\
+      \nPor otro lado, la Compa\xF1\xEDa Aseguradora est\xE1 obligada a proporcionar\
+      \ la cobertura descrita en la p\xF3liza, siempre que el Asegurado haya cumplido\
+      \ con sus obligaciones. Sin embargo, la Compa\xF1\xEDa tambi\xE9n tiene el derecho\
+      \ de terminar el contrato en cualquier momento, previa comunicaci\xF3n al Asegurado,\
+      \ y se reserva el derecho a no renovar el contrato en la fecha de vencimiento.\n\
+      \nAdem\xE1s, es importante mencionar que la veracidad de las declaraciones del\
+      \ Asegurado es una condici\xF3n de validez de la p\xF3liza. Cualquier falta de\
+      \ veracidad en las declaraciones puede dar lugar a la resoluci\xF3n del contrato.\n\
+      \nEn resumen, la relaci\xF3n entre la entidad Asegurado y la entidad Compa\xF1\
+      \xEDa en el contexto del contrato de seguro est\xE1 definida por las obligaciones\
+      \ y derechos de cada una, con un \xE9nfasis particular en el cumplimiento de las\
+      \ obligaciones por parte del Asegurado y la provisi\xF3n de la cobertura por parte\
+      \ de la Compa\xF1\xEDa."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Asegurado con la entidad Compa\xF1\xEDa?"
+  - answer: "La relaci\xF3n entre la entidad Aseguradora y el Asegurado se rige por\
+      \ las reglas establecidas en la p\xF3liza de seguro complementario de salud, la\
+      \ cual se rige por las disposiciones contenidas en el T\xEDtulo VIII, del Libro\
+      \ II, del C\xF3digo de Comercio. La aseguradora se compromete a reembolsar al\
+      \ Asegurado los gastos m\xE9dicos en que \xE9ste haya incurrido, en complemento\
+      \ de lo que cubra el sistema de salud previsional, siempre que el asegurado se\
+      \ encuentre adscrito a ISAPRE o FONASA. La cobertura se otorga tanto dentro del\
+      \ territorio nacional como en el extranjero, de acuerdo a los porcentajes y l\xED\
+      mites de reembolso o pago establecidos en las Condiciones Particulares de la p\xF3\
+      liza. El asegurado se considera asegurado, beneficiario y contratante para efecto\
+      \ de esta p\xF3liza, siempre y cuando se encuentre individualizado en las Condiciones\
+      \ Particulares de la p\xF3liza."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Asegurado con la entidad Aseguradora?"
+  - answer: "La entidad 'Contratante' y la entidad 'Asegurado' tienen una relaci\xF3\
+      n dentro de la p\xF3liza de seguro complementario de salud, donde el contratante\
+      \ es la persona que firma el contrato con la compa\xF1\xEDa de seguros y se hace\
+      \ responsable del pago de la prima, mientras que el asegurado es la persona que\
+      \ est\xE1 cubierta por la p\xF3liza y recibe los beneficios del seguro. La p\xF3\
+      liza establece que el asegurado debe estar afiliado a un sistema de salud previsional\
+      \ (ISAPRE o FONASA) y haber recibido cobertura de parte del sistema de salud previsional\
+      \ al cual se encuentra afiliado, respecto de la prestaci\xF3n que busca cubrir\
+      \ con esta p\xF3liza. Adem\xE1s, se especifica que cualquier declaraci\xF3n falsa\
+      \ o inexacta relativa al estado de salud del asegurado puede dar lugar a la terminaci\xF3\
+      n anticipada de la p\xF3liza o al rechazo del reembolso de los gastos m\xE9dicos\
+      \ reclamados."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Asegurado con la entidad Contratante?"
+  - answer: "De acuerdo con la informaci\xF3n proporcionada, la entidad Asegurado tiene\
+      \ una relaci\xF3n directa con el sistema de salud previsional, ya sea ISAPRE o\
+      \ FONASA. Esto se debe a que la compa\xF1\xEDa de seguros se compromete a reembolsar\
+      \ los gastos m\xE9dicos en que el asegurado haya incurrido, complementando lo\
+      \ que cubra el sistema de salud previsional, pero solo si el asegurado est\xE1\
+      \ adscrito a ISAPRE o FONASA. Adem\xE1s, los porcentajes y l\xEDmites de reembolso\
+      \ o pago se aplicar\xE1n sobre el remanente de la cobertura efectiva del sistema\
+      \ de salud previsional del asegurado, excluyendo los gastos en medicamentos. El\
+      \ asegurado debe estar afiliado a un sistema de salud previsional (ISAPRE o FONASA)\
+      \ y haber recibido cobertura de parte del sistema de salud previsional al cual\
+      \ se encuentra afiliado, respecto de la prestaci\xF3n que busca cubrir con esta\
+      \ p\xF3liza."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Asegurado con la entidad Sistema de Salud Previsional (ISAPRE o FONASA)?"
+  - answer: "De acuerdo con la informaci\xF3n proporcionada, la entidad 'Asegurado'\
+      \ est\xE1 relacionada con la entidad 'Personas Aseguradas' en el contexto de la\
+      \ p\xF3liza de seguro complementario de salud. La p\xF3liza se aplica a las personas\
+      \ espec\xEDficamente identificadas en las Condiciones Particulares de la p\xF3\
+      liza, y se les considera aseguradas, beneficiarios y contratantes. El asegurado\
+      \ tiene la obligaci\xF3n de estar afiliado a un sistema de salud previsional (ISAPRE\
+      \ o FONASA), haber recibido cobertura de parte del sistema de salud previsional\
+      \ al cual se encuentra afiliado, y pagar la prima convenida. Adem\xE1s, la veracidad\
+      \ de las declaraciones del asegurado o contratante sobre la edad o estado de salud\
+      \ de las personas aseguradas es una condici\xF3n de validez de la p\xF3liza. La\
+      \ compa\xF1\xEDa de seguros puede terminar anticipadamente la p\xF3liza o la cobertura\
+      \ de los asegurados si hay reticencia, omisi\xF3n, declaraci\xF3n falsa, inexacta\
+      \ o err\xF3nea relativa a la edad o estado de salud de las personas aseguradas\
+      \ que puedan influir en la apreciaci\xF3n del riesgo."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Asegurado con la entidad Personas Aseguradas?"
+  - answer: "La relaci\xF3n entre la entidad Compa\xF1\xEDa y la entidad Aseguradora\
+      \ est\xE1 definida por el contrato de seguro que existe entre ellas. La Compa\xF1\
+      \xEDa, en calidad de contratante, se obliga a pagar una prima a la Aseguradora\
+      \ a cambio de la cobertura de ciertos riesgos especificados en la p\xF3liza. La\
+      \ Aseguradora, a su vez, se compromete a indemnizar a la Compa\xF1\xEDa por las\
+      \ p\xE9rdidas cubiertas seg\xFAn los t\xE9rminos y condiciones del contrato.\n\
+      \nEs importante mencionar que la veracidad de las declaraciones hechas por el\
+      \ contratante y las personas aseguradas es una condici\xF3n de validez de la p\xF3\
+      liza. Adem\xE1s, el incumplimiento de las obligaciones por parte del asegurado,\
+      \ como estar afiliado a un sistema de salud previsional, haber recibido cobertura\
+      \ de parte del sistema de salud previsional y pagar la prima convenida, faculta\
+      \ a la Aseguradora para no reembolsar ning\xFAn gasto y puede dar lugar al t\xE9\
+      rmino de la cobertura.\n\nPor otro lado, la Aseguradora tambi\xE9n tiene la facultad\
+      \ de resolver el contrato en caso de mora o simple retardo en el pago de la prima,\
+      \ lo que dar\xEDa lugar al t\xE9rmino anticipado de la p\xF3liza. Asimismo, el\
+      \ asegurado puede poner t\xE9rmino al seguro en cualquier momento mediante comunicaci\xF3\
+      n escrita al asegurador, teniendo derecho \xFAnicamente a la proporci\xF3n de\
+      \ la prima contratada que comprende al per\xEDodo efectivamente cubierto por el\
+      \ seguro.\n\nFinalmente, toda comunicaci\xF3n, declaraci\xF3n o notificaci\xF3\
+      n que deba hacerse entre las partes debe efectuarse por escrito mediante carta\
+      \ certificada u otro medio fehaciente, dirigida al domicilio de la Aseguradora\
+      \ o al \xFAltimo domicilio del contratante o asegurado, seg\xFAn lo establecido\
+      \ en las condiciones particulares de la p\xF3liza."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Compa\xF1\xEDa con la entidad Aseguradora?"
+  - answer: "La relaci\xF3n entre la entidad Compa\xF1\xEDa y la entidad Contratante\
+      \ en el contexto proporcionado se refiere al contrato de seguro que ambas partes\
+      \ celebran, en el que la Compa\xF1\xEDa se compromete a asumir la responsabilidad\
+      \ por un determinado per\xEDodo seg\xFAn las condiciones particulares del contrato,\
+      \ y el Contratante se compromete a pagar las primas correspondientes. En caso\
+      \ de mora o retraso en el pago de la prima, la Compa\xF1\xEDa podr\xEDa declarar\
+      \ resuelto el contrato, lo que operar\xEDa al vencimiento de un plazo de quince\
+      \ d\xEDas corridos desde la fecha de env\xEDo de la comunicaci\xF3n. Adem\xE1\
+      s, el Contratante tiene la facultad de poner t\xE9rmino al seguro en cualquier\
+      \ momento mediante comunicaci\xF3n escrita al asegurador, en cuyo caso tendr\xE1\
+      \ derecho s\xF3lo a la proporci\xF3n de la prima contratada que comprende al per\xED\
+      odo efectivamente cubierto por el seguro.\n\nLa comunicaci\xF3n entre las partes\
+      \ debe ser por escrito y puede realizarse a trav\xE9s de carta certificada u otro\
+      \ medio fehaciente, dirigida al domicilio de la Compa\xF1\xEDa o al \xFAltimo\
+      \ domicilio del contratante registrado en las condiciones particulares de la p\xF3\
+      liza. En caso de dificultades entre las partes, estas ser\xE1n resueltas por un\
+      \ \xE1rbitro arbitrador nombrado de com\xFAn acuerdo por las partes, o en su defecto,\
+      \ designado por la Justicia Ordinaria. El asegurado, el contratante o beneficiario\
+      \ podr\xE1 someter al arbitraje de la Superintendencia de Valores y Seguros las\
+      \ dificultades que se susciten con la compa\xF1\xEDa cuando el monto de los da\xF1\
+      os reclamados no sea superior a lo dispuesto en la letra i) del art\xEDculo 3o\
+      \ del Decreto con Fuerza de Ley No 251, de Hacienda, de 1931."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Compa\xF1\xEDa con la entidad Contratante?"
+  - answer: "La p\xF3liza de seguro complementario de salud con c\xF3digo POL320200059\
+      \ establece una relaci\xF3n entre la entidad Compa\xF1\xEDa y los sistemas de\
+      \ salud previsionales ISAPRE o FONASA. La compa\xF1\xEDa se compromete a reembolsar\
+      \ al asegurado los gastos m\xE9dicos en que \xE9ste haya incurrido, en complemento\
+      \ de lo que cubra el sistema de salud previsional, siempre y cuando el asegurado\
+      \ se encuentre adscrito a ISAPRE o FONASA. La cobertura se otorga tanto dentro\
+      \ del territorio nacional como en el extranjero, de acuerdo a los porcentajes\
+      \ y l\xEDmites de reembolso o pago establecidos en las Condiciones Particulares\
+      \ de la p\xF3liza. Los porcentajes y l\xEDmites se aplican sobre el remanente\
+      \ de la cobertura efectiva del sistema de salud previsional del asegurado, excluyendo\
+      \ los gastos en medicamentos. Adem\xE1s, se pueden contratar coberturas adicionales\
+      \ para prestaciones no cubiertas por los sistemas de salud previsionales del asegurado,\
+      \ como consultas de psiquiatr\xEDa, consultas de psicolog\xEDa, cristales, marcos\
+      \ y lentes de contacto, pr\xF3tesis y \xF3rtesis, y cirug\xEDa ocular Lasik para\
+      \ miop\xEDa, astigmatismo, hipermetrop\xEDa y otras enfermedades oculares."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Compa\xF1\xEDa con la entidad Sistema de Salud Previsional (ISAPRE\
+      \ o FONASA)?"
+  - answer: "De acuerdo con la informaci\xF3n proporcionada, la entidad aseguradora\
+      \ y las personas aseguradas tienen una relaci\xF3n contractual en la que las personas\
+      \ aseguradas est\xE1n obligadas a cumplir ciertas condiciones para obtener la\
+      \ cobertura del seguro. Estas condiciones incluyen estar afiliado a un sistema\
+      \ de salud previsional, haber recibido cobertura de parte del sistema de salud\
+      \ previsional respecto de la prestaci\xF3n que busca cubrir con esta p\xF3liza\
+      \ y pagar la prima convenida.\n\nPor otro lado, la veracidad de las declaraciones\
+      \ que formule el contratante o las personas aseguradas es una condici\xF3n de\
+      \ validez de la p\xF3liza. Cualquier reticencia, omisi\xF3n, declaraci\xF3n falsa,\
+      \ inexacta o err\xF3nea del asegurado o contratante relativa a la edad o estado\
+      \ de salud de las personas amparadas por esta p\xF3liza que puedan influir en\
+      \ la apreciaci\xF3n del riesgo, faculta a la compa\xF1\xEDa de seguros para poner\
+      \ t\xE9rmino anticipado a la p\xF3liza o a la cobertura de los asegurados y rechazar\
+      \ el reembolso de los gastos m\xE9dicos reclamados.\n\nEn caso de siniestro, el\
+      \ asegurado o la persona que este designe, deber\xE1 comunicarlo por escrito a\
+      \ la compa\xF1\xEDa dentro del plazo m\xE1ximo se\xF1alado en las Condiciones\
+      \ Particulares. La compa\xF1\xEDa podr\xE1 exigir la restituci\xF3n de los gastos\
+      \ en que ella haya incurrido, cuando los asegurados hayan recibido coberturas\
+      \ fundamentadas en documentos falsos o adulterados u otorgados a personas no cubiertas\
+      \ en el contrato.\n\nEn resumen, la relaci\xF3n entre la entidad compa\xF1\xED\
+      a aseguradora y las personas aseguradas se basa en un contrato en el que las personas\
+      \ aseguradas deben cumplir ciertas obligaciones y hacer declaraciones veraces\
+      \ para obtener la cobertura del seguro. En caso de siniestro, deben comunicarlo\
+      \ a la compa\xF1\xEDa en el plazo establecido y la compa\xF1\xEDa podr\xE1 exigir\
+      \ la restituci\xF3n de los gastos en caso de presentar documentos falsos o adulterados."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Compa\xF1\xEDa con la entidad Personas Aseguradas?"
+  - answer: "La relaci\xF3n entre la entidad Aseguradora y la entidad Contratante en\
+      \ el marco de la P\xF3liza Seguro Complementario de Salud Incorporada al Dep\xF3\
+      sito de P\xF3lizas bajo el c\xF3digo POL320200059 est\xE1 establecida por un contrato\
+      \ de seguro, donde la Aseguradora se compromete a reembolsar al Contratante (o\
+      \ al asegurado) los gastos m\xE9dicos en que \xE9ste haya incurrido, en complemento\
+      \ de lo que cubra el sistema de salud previsional. La cobertura se aplica tanto\
+      \ dentro del territorio nacional como en el extranjero, siempre que la p\xF3liza\
+      \ se encuentre vigente y los gastos excedan el deducible. El Contratante y el\
+      \ asegurado deben estar afiliados a ISAPRE o FONASA, y la Aseguradora no cubrir\xE1\
+      \ ninguna prestaci\xF3n o gasto que no haya sido cubierto previamente por el sistema\
+      \ previsional del asegurado, con excepci\xF3n de aquellos espec\xEDficamente determinados\
+      \ en la p\xF3liza. Adem\xE1s, se excluyen los gastos en raz\xF3n de medicamentos\
+      \ e insumos, y se establece de forma expresa que no se otorgar\xE1 cobertura alguna\
+      \ a las Enfermedades, Dolencias o Situaciones de Salud Preexistentes. El Contratante\
+      \ y el asegurado deben cumplir con las obligaciones establecidas en el contrato,\
+      \ como estar afiliado a un sistema de salud previsional, haber recibido cobertura\
+      \ de parte del sistema de salud previsional al cual se encuentra afiliado, y pagar\
+      \ la prima convenida. Cualquier reticencia, omisi\xF3n, declaraci\xF3n falsa,\
+      \ inexacta o err\xF3nea del asegurado o contratante relativa a la edad o estado\
+      \ de salud de las personas amparadas por esta p\xF3liza que puedan influir en\
+      \ la apreciaci\xF3n del riesgo, faculta a la Aseguradora para poner t\xE9rmino\
+      \ anticipado a la p\xF3liza o a la cobertura de los asegurados y rechazar el reembolso\
+      \ de los gastos m\xE9dicos reclamados."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Aseguradora con la entidad Contratante?"
+  - answer: "La entidad Aseguradora tiene una relaci\xF3n con el sistema de salud previsional\
+      \ en Chile, ya sea ISAPRE o FONASA, en el sentido de que el asegurado debe estar\
+      \ adscrito a uno de estos sistemas para ser elegible para la cobertura de gastos\
+      \ m\xE9dicos complementarios. La aseguradora se compromete a reembolsar los gastos\
+      \ m\xE9dicos en que el asegurado haya incurrido, en complemento de lo que cubra\
+      \ el sistema de salud previsional, siempre que los gastos excedan el deducible\
+      \ y se encuentren dentro de los porcentajes y l\xEDmites de reembolso establecidos\
+      \ en las condiciones particulares de la p\xF3liza. Adem\xE1s, se pueden contratar\
+      \ coberturas adicionales para prestaciones no cubiertas por los sistemas de salud\
+      \ previsionales del asegurado, como consultas de psiquiatr\xEDa, consultas de\
+      \ psicolog\xEDa, cristales, marcos y lentes de contacto, pr\xF3tesis y ortesis,\
+      \ y cirug\xEDa ocular Lasik para miop\xEDa, astigmatismo, hipermetrop\xEDa y otras\
+      \ enfermedades oculares."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Aseguradora con la entidad Sistema de Salud Previsional (ISAPRE o\
+      \ FONASA)?"
+  - answer: "La relaci\xF3n entre la entidad aseguradora y las personas aseguradas en\
+      \ la p\xF3liza de seguro complementario de salud se rige por las disposiciones\
+      \ contenidas en el contrato y las normas legales establecidas en el C\xF3digo\
+      \ de Comercio. La aseguradora se compromete a reembolsar al asegurado los gastos\
+      \ m\xE9dicos en que \xE9ste haya incurrido, en complemento de lo que cubra el\
+      \ sistema de salud previsional, siempre que el asegurado se encuentre adscrito\
+      \ a ISAPRE o FONASA. La cobertura se otorga tanto dentro del territorio nacional\
+      \ como en el extranjero, de acuerdo a los porcentajes y l\xEDmites de reembolso\
+      \ o pago establecidos en las Condiciones Particulares de la p\xF3liza. Se considera\
+      \ asegurado a la persona individualizada en las Condiciones Particulares de la\
+      \ p\xF3liza."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Aseguradora con la entidad Personas Aseguradas?"
+  - answer: "La entidad contratante tiene una relaci\xF3n con dos entidades de salud\
+      \ previsional en Chile, ISAPRE y FONASA. De acuerdo con la p\xF3liza de seguro\
+      \ complementario de salud, la compa\xF1\xEDa de seguros se compromete a reembolsar\
+      \ al asegurado los gastos m\xE9dicos en que \xE9ste haya incurrido, en complemento\
+      \ de lo que cubra el sistema de salud previsional, siempre y cuando el asegurado\
+      \ se encuentre adscrito a ISAPRE o FONASA. La cobertura se otorga tanto dentro\
+      \ del territorio nacional como en el extranjero, de acuerdo a los porcentajes\
+      \ y l\xEDmites de reembolso o pago establecidos en las condiciones particulares\
+      \ de la p\xF3liza. El asegurado debe estar afiliado a un sistema de salud previsional\
+      \ (ISAPRE o FONASA) y haber recibido cobertura de parte del sistema de salud previsional\
+      \ al cual se encuentra afiliado, respecto de la prestaci\xF3n que busca cubrir\
+      \ con esta p\xF3liza."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Contratante con la entidad Sistema de Salud Previsional (ISAPRE o\
+      \ FONASA)?"
+  - answer: "De acuerdo con la informaci\xF3n proporcionada en la p\xF3liza de seguro\
+      \ complementario de salud, la entidad contratante y la entidad de personas aseguradas\
+      \ est\xE1n relacionadas de la siguiente manera:\n\n La entidad contratante es\
+      \ la parte que firma el contrato de seguro con la compa\xF1\xEDa de seguros, mientras\
+      \ que las personas aseguradas son aquellas que se encuentran individualizadas\
+      \ en las condiciones particulares de la p\xF3liza y que est\xE1n cubiertas por\
+      \ los servicios de salud ofrecidos por la compa\xF1\xEDa de seguros.\n\n La p\xF3\
+      liza se aplica de acuerdo con las disposiciones contenidas en los art\xEDculos\
+      \ del t\xEDtulo I y las normas legales de car\xE1cter imperativo establecidas\
+      \ en el t\xEDtulo VIII, del libro II, del C\xF3digo de Comercio. Adem\xE1s, se\
+      \ entender\xE1n v\xE1lidas las estipulaciones contractuales que sean m\xE1s beneficiosas\
+      \ para el asegurado o el beneficiario.\n\n La compa\xF1\xEDa de seguros se compromete\
+      \ a reembolsar al asegurado los gastos m\xE9dicos en que \xE9ste haya incurrido,\
+      \ en complemento de lo que cubra el sistema de salud previsional, siempre y cuando\
+      \ el asegurado se encuentre adscrito a ISAPRE o FONASA. La cobertura se otorga\
+      \ tanto dentro del territorio nacional como en el extranjero, de acuerdo a los\
+      \ porcentajes y l\xEDmites de reembolso o pago establecidos en las condiciones\
+      \ particulares de la p\xF3liza.\n\n La p\xF3liza es v\xE1lida \xFAnicamente si\
+      \ el asegurado est\xE1 afiliado a un sistema de salud previsional (ISAPRE o FONASA)\
+      \ y ha recibido cobertura de parte del sistema de salud previsional al cual se\
+      \ encuentra afiliado, respecto de la prestaci\xF3n que busca cubrir con esta p\xF3\
+      liza. Adem\xE1s, el asegurado debe pagar la prima convenida para obtener la cobertura\
+      \ que esta p\xF3liza contempla.\n\n La veracidad de las declaraciones que formule\
+      \ el contratante o las personas aseguradas por esta p\xF3liza constituyen condici\xF3\
+      n de validez de la p\xF3liza. Cualquier reticencia, omisi\xF3n, declaraci\xF3\
+      n falsa, inexacta o err\xF3nea del asegurado o contratante relativa a la edad\
+      \ o estado de salud de las personas amparadas por esta p\xF3liza que puedan influir\
+      \ en la apreciaci\xF3n del riesgo, faculta a la compa\xF1\xEDa de seguros para\
+      \ poner t\xE9rmino anticipado a la p\xF3liza o a la cobertura de los asegurados\
+      \ y rechazar el reembolso de los gastos m\xE9dicos reclamados.\n\n En caso de\
+      \ siniestro, el asegurado o la persona que \xE9ste designe, deber\xE1 comunicarlo\
+      \ por escrito a la compa\xF1\xEDa dentro del plazo m\xE1ximo se\xF1alado en las\
+      \ condiciones particulares. A falta de estipulaci\xF3n en las condiciones particulares,\
+      \ el plazo m\xE1ximo de denuncia ser\xE1 de sesenta (60) d\xEDas corridos contados\
+      \ desde la fecha de la emisi\xF3n del documento que da cuenta del gasto.\n\n La\
+      \ prima ser\xE1 pagada por el asegurado, conforme a los requisitos del medio de\
+      \ pago acordado, y a la forma y modalidades establecidas en las condiciones particulares\
+      \ de esta p\xF3liza. Se concede un plazo de gracia, que ser\xE1 el se\xF1alado\
+      \ en las respectivas condiciones particulares de la p\xF3liza para el pago de\
+      \ las primas, cualquiera que haya sido el medio de pago convenido. Durante el\
+      \ plazo de gracia, la p\xF3liza permanecer\xE1 vigente.\n\n La compa\xF1\xEDa\
+      \ podr\xE1 declarar resuelto el contrato mediante comunicaci\xF3n dirigida al\
+      \ contratante y/o asegurado en caso de mora o simple retardo en el pago de todo\
+      \ o parte de la prima. La resoluci\xF3n del contrato operar\xE1 al vencimiento\
+      \ del plazo de quince d\xEDas corridos, contados"
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Contratante con la entidad Personas Aseguradas?"
+  - answer: "La relaci\xF3n entre la entidad Sistema de Salud Previsional (ISAPRE o\
+      \ FONASA) y la entidad Personas Aseguradas en la p\xF3liza de seguro de salud\
+      \ complementario est\xE1 estrechamente relacionada. La compa\xF1\xEDa de seguros\
+      \ se compromete a reembolsar al asegurado los gastos m\xE9dicos en que \xE9ste\
+      \ haya incurrido, en complemento de lo que cubra el sistema de salud previsional,\
+      \ pero s\xF3lo en la medida que el asegurado se encuentre adscrito a ISAPRE o\
+      \ FONASA. Adem\xE1s, los porcentajes y l\xEDmites de reembolso o pago se aplicar\xE1\
+      n sobre el remanente de la cobertura efectiva del sistema de salud previsional\
+      \ del asegurado, excluyendo los gastos en medicamentos.\n\nLa p\xF3liza se aplica\
+      \ a las personas individualizadas en las Condiciones Particulares de la p\xF3\
+      liza, y el asegurado debe estar afiliado a un sistema de salud previsional (ISAPRE\
+      \ o FONASA) y haber recibido cobertura de parte del sistema de salud previsional\
+      \ al cual se encuentra afiliado, respecto de la prestaci\xF3n que busca cubrir\
+      \ con esta p\xF3liza.\n\nEs importante mencionar que la p\xF3liza no cubrir\xE1\
+      \ ninguna prestaci\xF3n o gasto que no haya sido cubierto previamente por el sistema\
+      \ previsional del asegurado, con excepci\xF3n de aquellos espec\xEDficamente determinados\
+      \ en el art\xEDculo correspondiente. Adem\xE1s, se excluyen las coberturas de\
+      \ parto normal, ces\xE1rea, aborto involuntario, complicaciones del embarazo y\
+      \ complicaciones en el parto, cuando la fecha probable de inicio del embarazo,\
+      \ haya ocurrido con fecha anterior a la vigencia del seguro.\n\nPor lo tanto,\
+      \ el Sistema de Salud Previsional (ISAPRE o FONASA) es una condici\xF3n previa\
+      \ y necesaria para la cobertura de la p\xF3liza de seguro de salud complementario,\
+      \ ya que la compa\xF1\xEDa de seguros s\xF3lo se compromete a reembolsar los gastos\
+      \ m\xE9dicos en complemento de lo que cubra el sistema de salud previsional."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCual es la realaci\xF3n entre\
+      \ la entidad Sistema de Salud Previsional (ISAPRE o FONASA) con la entidad Personas\
+      \ Aseguradas?"
+  - answer: "Esta p\xF3liza de seguro complementario de salud cubre los gastos m\xE9\
+      dicos en que incurra el asegurado, adicional a lo que cubra el sistema de salud\
+      \ previsional, siempre y cuando el asegurado est\xE9 adscrito a ISAPRE o FONASA.\
+      \ La cobertura se aplica tanto dentro del territorio nacional como en el extranjero,\
+      \ y se establecen porcentajes y l\xEDmites de reembolso o pago en las Condiciones\
+      \ Particulares de la p\xF3liza.]"
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQu\xE9 cubre esta p\xF3liza\
+      \ de seguro complementario de salud?"
+  - answer: "Esta p\xF3liza no cubre ninguna prestaci\xF3n o gasto que no haya sido\
+      \ cubierto previamente por el sistema previsional del asegurado, excepto aquellos\
+      \ espec\xEDficamente determinados en la p\xF3liza. Adem\xE1s, se excluyen los\
+      \ gastos en raz\xF3n de medicamentos e insumos, enfermedades preexistentes, parto\
+      \ normal, ces\xE1rea, aborto involuntario, complicaciones del embarazo y complicaciones\
+      \ en el parto, y gastos derivados de guerra, epidemias y pandemias, entre otros."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQu\xE9 no est\xE1 cubierto\
+      \ por esta p\xF3liza de seguro complementario de salud?"
+  - answer: "El asegurado debe estar afiliado a un sistema de salud previsional (ISAPRE\
+      \ o FONASA), haber recibido cobertura de parte del sistema de salud previsional\
+      \ al cual se encuentra afiliado, y pagar la prima convenida. El incumplimiento\
+      \ de estas obligaciones faculta a la compa\xF1\xEDa aseguradora para no reembolsar\
+      \ ning\xFAn gasto y puede poner t\xE9rmino a la cobertura."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCu\xE1les son las obligaciones\
+      \ del asegurado en esta p\xF3liza de seguro complementario de salud?"
+  - answer: "Cualquier reticencia, omisi\xF3n, declaraci\xF3n falsa, inexacta o err\xF3\
+      nea del asegurado relativa a la edad o estado de salud que puedan influir en la\
+      \ apreciaci\xF3n del riesgo, faculta a la compa\xF1\xEDa de seguros para poner\
+      \ t\xE9rmino anticipado a la p\xF3liza o a la cobertura de los asegurados y rechazar\
+      \ el reembolso de los gastos m\xE9dicos reclamados."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQu\xE9 ocurre si el asegurado\
+      \ hace una declaraci\xF3n falsa o inexacta en la solicitud de incorporaci\xF3\
+      n al seguro?"
+  - answer: "La compa\xF1\xEDa podr\xE1 declarar resuelto el contrato en caso de mora\
+      \ o simple retardo en el pago de la prima, y el asegurado podr\xE1 poner t\xE9\
+      rmino al seguro en cualquier momento mediante comunicaci\xF3n escrita al asegurador."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFC\xF3mo se produce el t\xE9\
+      rmino anticipado del seguro en esta p\xF3liza de seguro complementario de salud?"
+  - answer: "Cualquier comunicaci\xF3n debe hacerse por escrito mediante carta certificada\
+      \ u otro medio fehaciente, dirigida al domicilio de la compa\xF1\xEDa o al \xFA\
+      ltimo domicilio del contratante o asegurado, o a trav\xE9s de correo electr\xF3\
+      nico si el asegurado lo ha proporcionado."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFC\xF3mo debe hacerse cualquier\
+      \ comunicaci\xF3n entre la compa\xF1\xEDa y el asegurado?"
+  - answer: El asegurado debe estar afiliado a un sistema de salud previsional (ISAPRE
+      o FONASA), haber recibido cobertura de parte del sistema de salud previsional
+      al cual se encuentra afiliado, y pagar la prima convenida.
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCu\xE1les son las obligaciones\
+      \ del asegurado para obtener cobertura en la p\xF3liza?"
+  - answer: "S\xED, la compa\xF1\xEDa aseguradora puede poner t\xE9rmino al seguro en\
+      \ cualquier momento con expresi\xF3n de causa y previo env\xEDo de comunicaci\xF3\
+      n al domicilio o correo electr\xF3nico del asegurado."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFPuede la compa\xF1\xEDa aseguradora\
+      \ poner t\xE9rmino al seguro en cualquier momento?"
+  - answer: "Si el asegurado no paga la prima a tiempo, la compa\xF1\xEDa aseguradora\
+      \ puede declarar resuelto el contrato y dar por terminada la cobertura."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQu\xE9 sucede si el asegurado\
+      \ no paga la prima a tiempo?"
+  - answer: "La p\xF3liza no cubre gastos o prestaciones derivados de guerras, invasiones,\
+      \ acciones de enemigos extranjeros, epidemias y pandemias, tratamientos por adicci\xF3\
+      n a drogas, alcoholismo o tabaquismo, cirug\xEDas por obesidad con un IMC menor\
+      \ a 40, tratamientos de fertilidad e infertilidad, hospitalizaciones domiciliarias,\
+      \ y enfermedades psiqui\xE1tricas y/o psicol\xF3gicas."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQu\xE9 temas est\xE1n excluidos\
+      \ de la cobertura de la p\xF3liza?"
+  - answer: "Cualquier comunicaci\xF3n entre la compa\xF1\xEDa y el contratante debe\
+      \ efectuarse por escrito mediante carta certificada u otro medio fehaciente, dirigida\
+      \ al domicilio de la compa\xF1\xEDa o al \xFAltimo domicilio del contratante registrado\
+      \ en las Condiciones Particulares de la p\xF3liza. Si el contratante ha proporcionado\
+      \ un correo electr\xF3nico, todas las comunicaciones podr\xE1n realizarse a trav\xE9\
+      s de este."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFC\xF3mo se comunican las\
+      \ notificaciones entre la compa\xF1\xEDa aseguradora y el contratante en esta\
+      \ p\xF3liza de seguro?"
+  - answer: "El contratante debe estar afiliado a un sistema de salud previsional (ISAPRE\
+      \ o FONASA), haber recibido cobertura de parte del sistema de salud previsional\
+      \ al cual se encuentra afiliado, respecto de la prestaci\xF3n que busca cubrir\
+      \ con esta p\xF3liza, y pagar la prima convenida. El incumplimiento de estas obligaciones\
+      \ faculta a la Compa\xF1\xEDa Aseguradora para no reembolsar ning\xFAn gasto y\
+      \ podr\xE1 poner t\xE9rmino a la cobertura."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCu\xE1les son las obligaciones\
+      \ del contratante en esta p\xF3liza de seguro?"
+  - answer: "S\xED, el contratante puede poner t\xE9rmino al seguro en cualquier momento\
+      \ mediante comunicaci\xF3n escrita al asegurador, en cuyo caso tendr\xE1 derecho\
+      \ s\xF3lo a la proporci\xF3n de la prima contratada que comprende al per\xEDodo\
+      \ efectivamente cubierto por el seguro."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFEl contratante puede poner\
+      \ t\xE9rmino al seguro antes del vencimiento del plazo?"
+  - answer: "Si el contratante no paga la prima a tiempo, la compa\xF1\xEDa aseguradora\
+      \ podr\xE1 declarar resuelto el contrato y dejar de reembolsar gastos. Sin embargo,\
+      \ la compa\xF1\xEDa podr\xE1 desistirse de la terminaci\xF3n si el contratante\
+      \ paga la prima atrasada y sus intereses antes del vencimiento del plazo de quince\
+      \ d\xEDas corridos."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQu\xE9 sucede si el contratante\
+      \ no paga la prima a tiempo en esta p\xF3liza de seguro?"
+  - answer: "El contratante es la persona que ha celebrado el contrato de seguro con\
+      \ la compa\xF1\xEDa aseguradora, y se encuentra individualizado en las Condiciones\
+      \ Particulares de la p\xF3liza."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQui\xE9n es el contratante\
+      \ en esta p\xF3liza de seguro complementario de salud?"
+  - answer: " Cualquier comunicaci\xF3n entre la compa\xF1\xEDa y el contratante debe\
+      \ efectuarse por escrito mediante carta certificada u otro medio fehaciente, dirigida\
+      \ al domicilio de la compa\xF1\xEDa o al \xFAltimo domicilio del contratante registrado\
+      \ en las Condiciones Particulares de la p\xF3liza. Si el contratante ha proporcionado\
+      \ un correo electr\xF3nico, todas las comunicaciones podr\xE1n realizarse a trav\xE9\
+      s de este."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n \xBFC\xF3mo se comunican las\
+      \ notificaciones entre la compa\xF1\xEDa aseguradora y el contratante en esta\
+      \ p\xF3liza de seguro?"
+  - answer: " El contratante debe estar afiliado a un sistema de salud previsional (ISAPRE\
+      \ o FONASA), haber recibido cobertura de parte del sistema de salud previsional\
+      \ al cual se encuentra afiliado, respecto de la prestaci\xF3n que busca cubrir\
+      \ con esta p\xF3liza, y pagar la prima convenida. El incumplimiento de estas obligaciones\
+      \ faculta a la Compa\xF1\xEDa Aseguradora para no reembolsar ning\xFAn gasto y\
+      \ podr\xE1 poner t\xE9rmino a la cobertura."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n \xBFCu\xE1les son las obligaciones\
+      \ del contratante en esta p\xF3liza de seguro?"
+  - answer: " S\xED, el contratante puede poner t\xE9rmino al seguro en cualquier momento\
+      \ mediante comunicaci\xF3n escrita al asegurador, en cuyo caso tendr\xE1 derecho\
+      \ s\xF3lo a la proporci\xF3n de la prima contratada que comprende al per\xEDodo\
+      \ efectivamente cubierto por el seguro."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n \xBFEl contratante puede poner\
+      \ t\xE9rmino al seguro antes del vencimiento del plazo?"
+  - answer: " Si el contratante no paga la prima a tiempo, la compa\xF1\xEDa aseguradora\
+      \ podr\xE1 declarar resuelto el contrato y dejar de reembolsar gastos. Sin embargo,\
+      \ la compa\xF1\xEDa podr\xE1 desistirse de la terminaci\xF3n si el contratante\
+      \ paga la prima atrasada y sus intereses antes del vencimiento del plazo de quince\
+      \ d\xEDas corridos."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n \xBFQu\xE9 sucede si el contratante\
+      \ no paga la prima a tiempo en esta p\xF3liza de seguro?"
+  - answer: " El contratante es la persona que ha celebrado el contrato de seguro con\
+      \ la compa\xF1\xEDa aseguradora, y se encuentra individualizado en las Condiciones\
+      \ Particulares de la p\xF3liza."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n \xBFQui\xE9n es el contratante\
+      \ en esta p\xF3liza de seguro complementario de salud?"
+  - answer: "El asegurado debe estar afiliado a un sistema de salud previsional (ISAPRE\
+      \ o FONASA), haber recibido cobertura de parte del sistema de salud previsional\
+      \ al cual se encuentra afiliado respecto de la prestaci\xF3n que busca cubrir\
+      \ con esta p\xF3liza, y pagar la prima convenida. El incumplimiento de estas obligaciones\
+      \ faculta a la compa\xF1\xEDa aseguradora para no reembolsar ning\xFAn gasto y\
+      \ puede poner t\xE9rmino a la cobertura."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCu\xE1les son las obligaciones\
+      \ del asegurado en la p\xF3liza de seguro de salud complementario?"
+  - answer: "La p\xF3liza de seguro de salud complementario cubre los gastos m\xE9dicos\
+      \ en que incurra el asegurado, adem\xE1s de lo que cubra el sistema de salud previsional\
+      \ al que est\xE9 adscrito (ya sea ISAPRE o FONASA), siempre que los gastos excedan\
+      \ el deducible y se encuentren dentro de los porcentajes y l\xEDmites de reembolso\
+      \ establecidos en las condiciones particulares de la p\xF3liza."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQu\xE9 cubre la p\xF3liza\
+      \ de seguro de salud complementario?"
+  - answer: "Una ISAPRE es un sistema de salud previsional privado en Chile, al cual\
+      \ el asegurado debe estar adscrito para recibir cobertura adicional de gastos\
+      \ m\xE9dicos de acuerdo con las condiciones particulares de la p\xF3liza."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQu\xE9 es una ISAPRE en el\
+      \ contexto de la p\xF3liza de seguro de salud?"
+  - answer: "La p\xF3liza de seguro de salud complementario excluye espec\xEDficamente\
+      \ las prestaciones o gastos no cubiertos previamente por el sistema previsional\
+      \ del asegurado, los gastos en raz\xF3n de medicamentos e insumos, las enfermedades,\
+      \ dolencias o situaciones de salud preexistentes, ciertos gastos relacionados\
+      \ con el embarazo y parto, y gastos derivados de ciertas causas como guerra, epidemias\
+      \ y pandemias, adicciones, obesidad, tratamientos de fertilidad e infertilidad,\
+      \ y hospitalizaciones domiciliarias, entre otros."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQu\xE9 exclusiones existen\
+      \ en la p\xF3liza de seguro de salud complementario?"
+  - answer: "Cualquier reticencia, omisi\xF3n, declaraci\xF3n falsa, inexacta o err\xF3\
+      nea del asegurado relativa a la edad o estado de salud que puedan influir en la\
+      \ apreciaci\xF3n del riesgo, faculta a la compa\xF1\xEDa de seguros para poner\
+      \ t\xE9rmino anticipado a la p\xF3liza o a la cobertura de los asegurados y rechazar\
+      \ el reembolso de los gastos m\xE9dicos reclamados. La compa\xF1\xEDa de seguros\
+      \ podr\xE1 exigir la restituci\xF3n de los gastos incurridos si los asegurados\
+      \ han recibido coberturas fundamentadas en documentos falsos o adulterados u otorgados\
+      \ a personas no cubiertas en el contrato. La no restituci\xF3n de dichos gastos\
+      \ producir\xE1 el t\xE9rmino de la cobertura."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQu\xE9 ocurre si el asegurado\
+      \ hace declaraciones falsas o inexactas en la p\xF3liza de seguro de salud complementario?"
+  - answer: "El asegurado, o la persona que \xE9ste designe, deber\xE1 comunicar el\
+      \ siniestro por escrito a la compa\xF1\xEDa dentro del plazo m\xE1ximo se\xF1\
+      alado en las condiciones particulares. A falta de estipulaci\xF3n en las condiciones\
+      \ particulares, el plazo m\xE1ximo de denuncia ser\xE1 de sesenta (60) d\xEDas\
+      \ corridos contados desde la fecha de la emisi\xF3n del documento que da cuenta\
+      \ del gasto."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFC\xF3mo se denuncia un siniestro\
+      \ en la p\xF3liza de seguro complementario de salud?"
+  - answer: "El asegurado debe estar afiliado a un sistema de salud previsional (ISAPRE\
+      \ o FONASA), haber recibido cobertura de parte del sistema de salud previsional\
+      \ al cual se encuentra afiliado, y pagar la prima convenida. El incumplimiento\
+      \ de estas obligaciones facultar\xE1 a la compa\xF1\xEDa aseguradora para no reembolsar\
+      \ ning\xFAn gasto y podr\xE1 poner t\xE9rmino a la cobertura."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFCu\xE1les son las obligaciones\
+      \ del asegurado en la p\xF3liza de seguro complementario de salud?"
+  - answer: "La p\xF3liza de seguro complementario de salud reembolsar\xE1 al asegurado\
+      \ los gastos m\xE9dicos en que haya incurrido, adem\xE1s de lo que cubra el sistema\
+      \ de salud previsional, siempre que el asegurado est\xE9 adscrito a ISAPRE o FONASA.\
+      \ Ofrece cobertura tanto dentro del territorio nacional como en el extranjero,\
+      \ con l\xEDmites y porcentajes de reembolso especificados en las condiciones particulares\
+      \ de la p\xF3liza."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQu\xE9 beneficios ofrece\
+      \ la p\xF3liza de seguro complementario de salud?"
+  - answer: "El seguro no cubrir\xE1 ninguna prestaci\xF3n o gasto que no haya sido\
+      \ cubierto previamente por el sistema previsional del asegurado, excepto aquellos\
+      \ espec\xEDficamente determinados en el contrato. Se excluyen los gastos en raz\xF3\
+      n de medicamentos e insumos, y se establece que no se otorgar\xE1 cobertura a\
+      \ las enfermedades, dolencias o situaciones de salud preexistentes. Adem\xE1s,\
+      \ el seguro no cubrir\xE1 ninguna prestaci\xF3n o gasto que se origine por efectos\
+      \ de guerra, epidemias y pandemias, tratamientos por adicci\xF3n a las drogas,\
+      \ alcoholismo o tabaquismo, entre otros."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQu\xE9 exclusiones existen\
+      \ en la cobertura del seguro complementario de salud?"
+  - answer: "Cualquier reticencia, omisi\xF3n, declaraci\xF3n falsa, inexacta o err\xF3\
+      nea del asegurado o contratante relativa a la edad o estado de salud de las personas\
+      \ amparadas por esta p\xF3liza, que puedan influir en la apreciaci\xF3n del riesgo,\
+      \ faculta a la compa\xF1\xEDa de seguros para poner t\xE9rmino anticipado a la\
+      \ p\xF3liza o a la cobertura de los asegurados y rechazar el reembolso de los\
+      \ gastos m\xE9dicos reclamados."
+    question: "En la P\xF3liza Seguro Complementario de Salud POL320200059 publicada\
+      \ en CMF para la Industria de Seguros en Chile \n\xBFQu\xE9 sucede si el asegurado\
+      \ hace declaraciones falsas o inexactas en la p\xF3liza de seguro complementario\
+      \ de salud?"
